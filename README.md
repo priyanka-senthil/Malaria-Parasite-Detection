@@ -20,8 +20,6 @@ Our CNN architecture is designed to automatically learn hierarchical features fr
 
 - **TensorFlow** & **Keras**: Model development and training.
 - **Matplotlib**: Visualization of training progress.
-- **EMR & SageMaker**: Model deployment.
-- **MLflow**: Model tracking and artifact management.
 
 ## 🧬 Dataset
 
