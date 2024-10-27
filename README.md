@@ -5,7 +5,7 @@
 
 ## 📜 Project Overview
 
-Malaria is a life-threatening disease caused by *Plasmodium* parasites, and rapid, accurate diagnosis is crucial for effective treatment. In this project, we developed a **Convolutional Neural Network (CNN)** model to automate the detection of malaria-infected cells using blood smear images. By training the model on the **Malaria Cell Images Dataset**, we achieved **94.5% accuracy**, showcasing the potential of deep learning in medical diagnostics.
+Malaria is a life-threatening disease caused by *Plasmodium* parasites, and rapid, accurate diagnosis is crucial for effective treatment. In this project, we developed a **Convolutional Neural Network (CNN)** model to automate the detection of malaria-infected cells using blood smear images. By training the model on the **Malaria Cell Images Dataset**, we achieved **90.5% accuracy**, showcasing the potential of deep learning in medical diagnostics.
 
 ## 📊 Model Architecture
 
